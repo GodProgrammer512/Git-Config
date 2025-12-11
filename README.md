@@ -1,2 +1,2 @@
-# git-PAT
-Git Personal Access Token
+# Git-Config
+Git Config
