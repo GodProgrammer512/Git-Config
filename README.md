@@ -1,2 +1,2 @@
 # git-PAT
-Git Personal Token
+Git Personal Access Token
